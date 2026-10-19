@@ -56,7 +56,7 @@ class DataInspection:
             print(f"Failed to Describe Stats of Dataset...|Error {e}")
             
         
-def chose_dataSet_menu(dataFrames):
+def chose_dataSet_menu_for_inspection(dataFrames):
     
     print()
     while True:

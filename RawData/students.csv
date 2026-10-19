@@ -1,0 +1,16 @@
+Student_ID,Name,Department,Semester,Gender,Admission_Year
+STU0001,Usman Khan,Information Technology,4.0,Male,2023
+STU0002,Usman Hussain,Computer Science,7.0,Male,2022
+STU0003,Ahmed Butt,,1.0,Male,2026
+STU0004,Maham Butt,Data Science,5.0,,2023
+STU0005,Maham Raza,Information Technology,,Male,2024
+STU0006,Usman Malik,Data Science,2.0,Female,2024
+STU0007,Rayan Ahmed,Computer Science,8.0,Male,2025
+STU0008,Ahmed Hussain,Information Technology,6.0,Male,2022
+STU0009,Hamza Butt,Information Technology,2.0,Male,2022
+STU0011,  hira butt  ,Information Technology,2.0,Male,2026
+STU0012,Saad Sheikh,Data Science,7.0,Female,2026
+STU0013,Saad Raza,Computer Science,4.0,Male,2024
+STU0006,Usman Malik,Data Science,2.0,Female,2024
+STU0003,Ahmed Butt,,1.0,Male,2026
+STU0004,Maham Butt,Data Science,5.0,,2023

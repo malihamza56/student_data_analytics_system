@@ -3,7 +3,7 @@
 Loader Module: Load Datasets 
 """
 
-from src.config import pandas as pd
+import pandas as pd
 from src.config import *
 
 

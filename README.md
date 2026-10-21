@@ -186,7 +186,7 @@ Choose an option from the menu by typing its number.
 
 ## Author
 
-- **Name:** [Your Name]
-- **Roll No:** [Your Roll No]
-- **Class:** [Your Class]
+- **Name:** Muhammad Ali Hamza
+- **Roll No:** BSCS51F25S016
+- **Class:** BSCS SS1
 - **University:** University of Sargodha
